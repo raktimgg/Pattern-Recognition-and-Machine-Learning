@@ -1,0 +1,6 @@
+All the codes are commented to tell the working of the funcitons.
+
+A pdf by the name of Coding_explanation has been incluided in the same folder which contains the theoretical details of each of the questions.
+
+Question number 10.55 is totally theoretical, and is therefore no python program for it is included. However, the solution has been included in the Coding_explanation pdf.
+ 
