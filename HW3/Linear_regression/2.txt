@@ -1,0 +1,4 @@
+(a) Effect of step size on convergence of weight
+On increasing step size, the weights tend to converge faster. However, increasing it to high value make the loss pass its minima and then loss starts increasing again. On taking very high step size, the loss shoots up to inf very fast and weights do not get updated. Taking a moderate value step size solves the problem.
+(b) Effect of batch size on speed of convergence
+On increasing batch size, the convergence speed increases. But, if we take a very high batch size, we get very few loss surfaces and therefore the loss function might get stuck at some local minima.

@@ -1,0 +1,5 @@
+(a) Goodness of fit of polynomial, gaussian and sigmoid kernel-
+For all the three kernels the resulting prediction is more or less similar. However, Gaussian and Sigmoid kernel methods are very sensitive to change on changing values of mean and variance. Polynomial basis is somewhat more stable as compared to the others.
+
+(b) Observations from the three kernels-
+Here the target function is a mixture of of peicewise defined functions. In this one, Gaussian and sigmoid kernels worked significantly better than sinusoidal kernels. This is mainly because the data has local variations and polynomial basis is not very good in handling them. So, Gaussian and Sigmoid kernel performed better.
